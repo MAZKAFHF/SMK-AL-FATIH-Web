@@ -1,0 +1,73 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "applicants": {
+      ".read": true,
+      ".write": true,
+      "$applicantId": {
+        ".validate": "newData.hasChildren(['id','registrationNumber','email','name'])"
+      }
+    },
+    "applicationDocuments": {
+      ".read": true,
+      ".write": true
+    },
+    "interviews": {
+      ".read": true,
+      ".write": true
+    },
+    "majors": {
+      ".read": true,
+      ".write": true
+    },
+    "programs": {
+      ".read": true,
+      ".write": true
+    },
+    "news": {
+      ".read": true,
+      ".write": true
+    },
+    "events": {
+      ".read": true,
+      ".write": true
+    },
+    "gallery": {
+      ".read": true,
+      ".write": true
+    },
+    "facilities": {
+      ".read": true,
+      ".write": true
+    },
+    "faqs": {
+      ".read": true,
+      ".write": true
+    },
+    "announcements": {
+      ".read": true,
+      ".write": true
+    },
+    "notifications": {
+      ".read": true,
+      ".write": true
+    },
+    "auditLogs": {
+      ".read": true,
+      ".write": true
+    },
+    "settings": {
+      ".read": true,
+      ".write": true
+    },
+    "counters": {
+      ".read": true,
+      ".write": true
+    },
+    "statistics": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}

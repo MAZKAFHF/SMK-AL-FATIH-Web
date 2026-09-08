@@ -1,0 +1,8 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="600" height="600" fill="#f8fafc"/>
+<rect x="40" y="40" width="520" height="520" rx="16" fill="white" stroke="#e2e8f0"/>
+<text x="300" y="240" text-anchor="middle" font-size="56">🖼️</text>
+<text x="300" y="310" text-anchor="middle" font-family="Arial" font-weight="700" font-size="22" fill="#334155">Galeri Sekolah</text>
+<text x="300" y="335" text-anchor="middle" font-family="Arial" font-size="14" fill="#64748b">Dokumentasi Kegiatan Siswa</text>
+<circle cx="180" cy="420" r="40" fill="#e0f2fe"/><circle cx="300" cy="420" r="40" fill="#fef3c7"/><circle cx="420" cy="420" r="40" fill="#dcfce7"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="500" fill="#064e3b"/>
+<rect x="80" y="60" width="640" height="380" rx="16" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.15"/>
+<text x="400" y="160" text-anchor="middle" font-size="52">📖</text>
+<text x="400" y="220" text-anchor="middle" font-family="Arial" font-weight="800" font-size="26" fill="white">Tahfizh Al-Qur'an</text>
+<text x="400" y="250" text-anchor="middle" font-family="Arial" font-size="13" fill="#a7f3d0">Full Day 3 Juz • Boarding 10 Juz • Takhassus 30 Juz</text>
+<line x1="200" y1="290" x2="600" y2="290" stroke="#f59e0b" stroke-width="2" stroke-opacity="0.6"/>
+<text x="400" y="320" text-anchor="middle" font-family="Arial" font-style="italic" font-size="12" fill="white" fill-opacity="0.8">Bersama Al-Qur'an Membangun Generasi Unggul</text>
+</svg>

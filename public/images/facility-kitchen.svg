@@ -1,0 +1,7 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<rect width="600" height="400" fill="#fef2f2"/>
+<rect x="80" y="60" width="440" height="280" rx="16" fill="white" stroke="#fecaca"/>
+<text x="300" y="160" text-anchor="middle" font-size="54">🍳</text>
+<text x="300" y="210" text-anchor="middle" font-family="Arial" font-weight="700" font-size="18" fill="#7f1d1d">Dapur Standar Industri</text>
+<text x="300" y="235" text-anchor="middle" font-family="Arial" font-size="13" fill="#6b7280">Tata Boga • Manajemen Dapur • Hygiene</text>
+</svg>

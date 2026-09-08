@@ -1,0 +1,8 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<rect width="600" height="400" fill="#fefce8"/>
+<rect x="80" y="60" width="440" height="280" rx="16" fill="white" stroke="#fde68a"/>
+<text x="300" y="160" text-anchor="middle" font-size="54">🕌</text>
+<text x="300" y="210" text-anchor="middle" font-family="Arial" font-weight="700" font-size="18" fill="#92400e">Masjid Al-Fatih Islamic Center</text>
+<text x="300" y="235" text-anchor="middle" font-family="Arial" font-size="13" fill="#6b7280">Pusat Ibadah & Pembinaan Karakter</text>
+<rect x="200" y="260" width="200" height="6" rx="3" fill="#f59e0b"/>
+</svg>
